@@ -1,8 +1,7 @@
 # LLM-Powered-Node-Based-Graphics-Engine
 
-# 🧠 PromptGraph: LLM-Powered Node-Based Graphics Engine
 
-PromptGraph is an experimental graphics engine that allows users to generate and manipulate node-based visual scenes using natural language prompts.
+This is an experimental graphics engine that allows users to generate and manipulate node-based visual scenes using natural language prompts.
 
 By combining the power of Large Language Models (LLMs) with a visual programming interface, PromptGraph turns English instructions into structured, editable graphs — enabling a new way to build scenes, animations, and logic without writing code.
 
